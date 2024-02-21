@@ -403,12 +403,12 @@ nav .navbar-nav li a{
  }
 
 .phone_vid{
-    width: 10%;
+    width: 100%;
     background-color: pink;
 }
 
 .phone_vid video{
-    width: 10%;
+    width: 100%;
 }
 
 .hike_bttn{
@@ -422,9 +422,6 @@ nav .navbar-nav li a{
     
 }
 
-video{
-    width: 10%;
-}
 
 /* Break point setions */
 
