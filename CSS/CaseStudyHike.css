@@ -414,7 +414,7 @@ nav .navbar-nav li a{
 
 .hike_bttn{
     all: unset;
-    background-color: #21847F;
+    background-color: black;
     margin-top: 20px;
     padding: 10px;
     border-radius: 5px;
