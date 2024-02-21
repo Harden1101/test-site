@@ -405,7 +405,6 @@ nav .navbar-nav li a{
 .phone_vid{
     width: 200px;
     height:200px;
-    background-color: teal;
 }
 
 .phone_vid video{
@@ -423,6 +422,9 @@ nav .navbar-nav li a{
     
 }
 
+video{
+    width: 50%;
+}
 
 /* Break point setions */
 
